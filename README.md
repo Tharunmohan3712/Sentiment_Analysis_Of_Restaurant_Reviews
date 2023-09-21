@@ -10,5 +10,3 @@ To build a model to predict if review is positive or negative, following steps a
 3.Vectorization
 
 4.Training and Classification
-
-5.Analysis Conclusion
